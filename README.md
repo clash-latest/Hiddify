@@ -1,9 +1,10 @@
 # Hiddify 官网资源最新版Clash下载
 
+<br>
 <div align="center">
-  <img width="512" height="512" alt="Hiddify" src="https://github.com/user-attachments/assets/77d697a4-5ee7-4d9e-8ef2-8a9d789b6b43" />
-
+  <img width="150" height="150" alt="Hiddify" src="https://github.com/user-attachments/assets/77d697a4-5ee7-4d9e-8ef2-8a9d789b6b43" />
 </div>
+<br>
 
 ## :memo: Clash节点资源
 
